@@ -1,6 +1,7 @@
 # Visualisation-BrightLearn
 
 - This is a collection of dashboards created using Google Looker Studio (Data Studio) and Microsoft Power BI.
+- This repo contains the data (Excel/CSV), dashboards- PDF, Links to the dashboard for Google Looker Studio and .pbix files for Power BI dashboards.
   
 ## Google Looker Studio Dashboard Links
 
