@@ -6,14 +6,14 @@
 ## Google Looker Studio Dashboard Links
 
 - Shopping Trends Analysis:
-https://datastudio.google.com/s/oLRX_OPZDMs
+https://datastudio.google.com/s/kGZfmA_hmGw
 
 - Retail Sales Analysis:
-https://datastudio.google.com/s/sZDptJ5C1Kk
+https://datastudio.google.com/s/oi_lyn5rez0
 
 - Coffee Shop Analysis:
-https://datastudio.google.com/s/ipcw79bG07M
+https://datastudio.google.com/s/qtHk4goMFjw
 
 - Duplicated Bright Coffee Shop Dashboard:
-https://datastudio.google.com/s/i1448oGy0rk
+https://datastudio.google.com/s/pKR1ubCv3Pc
 
